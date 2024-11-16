@@ -3,11 +3,13 @@ import { useRouter } from 'next/router';
 import FilesIcon from './icons/FilesIcon';
 import GithubIcon from './icons/GithubIcon';
 import CodeIcon from './icons/CodeIcon';
-// import PencilIcon from './icons/PencilIcon';
+import PencilIcon from './icons/PencilIcon';
 import MailIcon from './icons/MailIcon';
 import AccountIcon from './icons/AccountIcon';
 import SettingsIcon from './icons/SettingsIcon';
+import SourceControlIcon from './icons/SourceControlIcon';
 import styles from '../styles/Sidebar.module.css';
+
 
 const sidebarTopItems = [
   {
@@ -22,10 +24,10 @@ const sidebarTopItems = [
     Icon: CodeIcon,
     path: '/projects',
   },
-  // {
-  //   Icon: PencilIcon,
-  //   path: '/articles',
-  // },
+  {
+    Icon: SourceControlIcon,  // Assuming AccountIcon or you may choose an appropriate icon
+    path: '/experience',
+  },
   {
     Icon: MailIcon,
     path: '/contact',

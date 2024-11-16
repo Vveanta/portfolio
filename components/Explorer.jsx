@@ -25,16 +25,27 @@ const explorerItems = [
     path: '/projects',
     icon: 'js_icon.svg',
   },
-  // {
-  //   name: 'articles.json',
-  //   path: '/articles',
-  //   icon: 'json_icon.svg',
-  // },
+  {
+    name: 'experience.json',  // Add this line
+    path: '/experience',
+    icon: 'json_icon.svg',
+  },
+  {
+    name: 'education.yaml',
+    path: '/education',
+    icon: 'yaml_icon.svg',
+  },
+  {
+    name: 'resume.pdf',
+    path: '/resume',
+    icon: 'pdf_icon.svg',
+  },
   {
     name: 'github.md',
     path: '/github',
     icon: 'markdown_icon.svg',
-  },
+  }
+  
 ];
 
 const Explorer = () => {

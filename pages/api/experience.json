@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Research Assistant",
+    "company": "Tea Lab @ University of Florida",
+    "date": "June 2024 - Present",
+    "description": "Developed pipelines and deep learning models for predictive analysis. Enhanced real-world data representations using LSTMs and VAEs.",
+    "icon": "/teaLab.jpg",
+    "iconBg": "#4b6cb7"
+  },
+  {
+    "id": 2,
+    "title": "Software Developer/ML Engineer Intern",
+    "company": "Affekta LLC",
+    "date": "May 2024 - August 2024",
+    "description": "Built a React-based web app deployed on Azure, integrating gamification with skill trees and story-driven features via OpenAI. Developed APIs for CRUD operations using PostgreSQL",
+    "icon": "/affekta.png",
+    "iconBg": "#6b7c93"
+  },
+  {
+    "id": 3,
+    "title": "Graduate Teaching Assistant",
+    "company": "University of Florida",
+    "date": "February 2024 - May 2024",
+    "description": "Led grading for 260+ students and streamlined instructional materials. Improved course engagement and performance consistency.",
+    "icon": "/UF.png",
+    "iconBg": "#4b6cb7"
+  },
+  {
+    "id": 4,
+    "title": "Data Science Intern",
+    "company": "To The New Pvt. Ltd.",
+    "date": "June 2022 - August 2022",
+    "description": "Applied NLP and ML techniques for sentiment analysis. Streamlined data scraping and analysis for impactful projects.",
+    "icon": "/TTN.png",
+    "iconBg": "#6b7c93"
+  }
+]
