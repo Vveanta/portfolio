@@ -9,73 +9,77 @@
 }
 
 /* Tags */
-.react {
+.flask, .react {
   border: 0.1rem solid rgb(97, 218, 251);
 }
-.react:hover {
+.flask:hover, .react:hover {
   background: rgba(97, 218, 251, 0.25);
 }
-
-.node {
-  border: 0.1rem solid rgb(131, 205, 41);
+.next {
+  border: 0.1rem solid rgb(97, 218, 251);
 }
-.node:hover {
-  background: rgba(131, 205, 41, 0.25);
+.next:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+.gcp, .google-cloud-nlp {
+  border: 0.1rem solid rgb(230, 241, 31);
+}
+.gcp:hover, .google-cloud-nlp:hover {
+  background: rgba(230, 241, 31, 0.25);
 }
 
-.mongodb {
+.nlp, .data-engineering, .deep-learning, .data-structures {
+  border: 0.1rem solid rgb(172, 205, 41);
+}
+.nlp:hover, .data-engineering:hover, .deep-learning:hover, .data-structures:hover {
+  background: rgba(172, 205, 48, 0.25);
+}
+
+.t5,.gemma {
   border: 0.1rem solid rgb(67, 153, 52);
 }
-.mongodb:hover {
+.t5:hover, .gemma:hover {
   background: rgba(67, 153, 52, 0.25);
 }
 
-.redux {
+.postgresql {
   border: 0.1rem solid rgb(118, 74, 188);
 }
-.redux:hover {
+.postgresql:hover {
   background: rgba(118, 74, 188, 0.25);
 }
 
-.razorpay {
-  border: 0.1rem solid rgb(82, 143, 240);
+.algorithms {
+  border: 0.1rem solid rgb(113, 64, 219);
 }
-.razorpay:hover {
-  background: rgba(82, 143, 240, 0.25);
+.algorithms:hover {
+  background: rgba(113, 64, 219, 0.25);
 }
 
-.material-ui {
+.tensorflow, .pytorch {
   border: 0.1rem solid rgb(25, 118, 210);
 }
-.material-ui:hover {
+.tensorflow:hover, .pytorch:hover {
   background: rgba(25, 118, 210, 0.25);
 }
-
-.bulma {
-  border: 0.1rem solid rgb(0, 209, 178);
-}
-.bulma:hover {
-  background: rgb(0, 209, 178, 0.25);
-}
-
-.next {
+.python {
   border: 2px solid rgb(0, 112, 243);
 }
-.next:hover {
+.python:hover {
   background: rgba(0, 112, 243, 0.25);
 }
 
-.tailwind {
+.GenAI,.Gans {
   border: 2px solid rgb(6, 182, 212);
 }
-.tailwind:hover {
+.GenAI:hover , .Gans:hover {
   background: rgba(6, 182, 212, 0.25);
 }
 
-.react-query {
+.praw {
   border: 2px solid rgb(255, 65, 84);
 }
-.react-query:hover {
+.praw:hover {
   background: rgba(255, 65, 84, 0.25);
 }
 
@@ -84,4 +88,16 @@
 }
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
+}
+.spacy {
+  border: 2px solid rgb(21, 114, 182);
+}
+.spacy:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
+.openai {
+  border: 2px solid rgb(230, 235, 238);
+}
+.openai:hover {
+  background: rgba(230, 235, 238, 0.25);
 }

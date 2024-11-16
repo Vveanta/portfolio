@@ -35,5 +35,4 @@ yarn-error.log*
 
 #packages
 package-lock.json
-pages/api/projects.json
 .github/
