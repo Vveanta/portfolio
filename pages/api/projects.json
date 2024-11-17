@@ -6,7 +6,7 @@
     "description": "A web platform to process, augment, and visualize police incident reports with 7 detailed visualizations and downloadable data insights.",
     "tags": ["python", "postgresql", "flask", "gcp"],
     "source_code": "https://github.com/Vveanta/norman-incident-vis",
-    "demo": "https://normanpd-insight.com/"
+    "demo": "https://norman-pd-visualizer-b3fygtgdf9hycmbn.eastus-01.azurewebsites.net/"
   },
   {
     "id": 2,
@@ -56,6 +56,6 @@
     "description": "A portfolio website inspired by VSCode, designed to showcase my projects, experiences, education, and skills to fellow developers and potential recruiters. ",
     "tags": ["react", "next", "css-modules"],
     "source_code": "https://github.com/Vveanta/portfolio.git",
-    "demo": ""
+    "demo": "https://vedanshmaheshwari.netlify.app"
   }
 ]

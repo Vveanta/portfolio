@@ -10,15 +10,29 @@ const CustomHead = ({ title }) => {
       />
       <meta
         name="keywords"
-        content="vedansh maheshwari, vedansh, maheshwari, data scientist portfolio, machine learning engineer portfolio, software engineer portfolio, data engineer portfolio, data scientist, Vedansh web developer, vscode-portfolio"
+        content="vedansh maheshwari,vveanta, vedansh, maheshwari, vedansh.13, vs-code portfolio, vscode-portfolio, vedansh portfolio, web developer portfolio"
       />
+      <meta
+        name="keywords"
+        content="vedansh maheshwari uf, uf, university of florida, computer science uf, computer science university of florida, data science UF, data science university of florida, AI research UF, UF CISE"
+      />
+      <meta
+        name="keywords"
+        content="data scientist portfolio, data science, machine learning engineer portfolio, machine learning, artificial intelligence, deep learning, data engineer, big data, predictive analytics, data visualization"
+      />
+      <meta
+        name="keywords"
+        content="software development, software developer portfolio, web developer, full stack developer, React developer, Node.js, software engineering, agile development, coding portfolio, programming projects"
+      />
+
+
       <meta property="og:title" content="Vedansh Maheshwari's Portfolio" />
       <meta
         property="og:description"
         content="A data scientist and developer crafting innovative solutions using machine learning, deep learning, and full-stack development."
       />
-      {/* <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" /> */}
+      <meta property="og:image" content="https://imgur.com/a/OAcRzgh" />
+      <meta property="og:url" content="https://vedanshmaheshwari.netlify.app" />
       
     </Head>
   );

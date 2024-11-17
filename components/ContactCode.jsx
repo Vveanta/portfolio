@@ -12,24 +12,34 @@ const contactItems = [
     href: 'mailto:maheshwariv@ufl.edu',
   },
   {
+    social: 'phone',
+    link: '+1 (352) 740-6059',
+    href: 'tel:+13527406059',
+  },
+  {
     social: 'github',
-    link: 'Vveanta',
+    link: '@Vveanta',
     href: 'https://github.com/Vveanta',
   },
   {
     social: 'linkedin',
-    link: 'Vedansh',
+    link: '@Vedansh-mahe',
     href: 'https://www.linkedin.com/in/vedansh-mahe/',
   },
-  // {
-  //   social: 'twitter',
-  //   link: '',
-  //   href: 'https://www.twitter.com/',
-  // },
+  {
+    social: 'X',
+    link: '@vveanta',
+    href:'https://x.com/vveanta' ,
+  },
   {
     social: 'instagram',
-    link: 'Vedansh Maheshwari',
+    link: '@vedansh.13',
     href: 'https://www.instagram.com/vedansh.13',
+  },
+  {
+    social: 'telegram,',
+    link: '@vveanta',
+    href: 'https://t.me/vveanta',
   },
   // 
   // 
