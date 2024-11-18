@@ -13,7 +13,7 @@
     "title": "Software Developer/ML Engineer Intern",
     "company": "Affekta LLC",
     "date": "May 2024 - August 2024",
-    "description": "Built a React-based web app deployed on Azure, integrating gamification with skill trees and story-driven features via OpenAI. Developed APIs for CRUD operations using PostgreSQL",
+    "description": "Built a React-based web app deployed on Azure, integrating gamification with skill trees and story-driven features via OpenAI. Developed APIs for CRUD operations using PostgreSQL.",
     "icon": "/affekta.png",
     "iconBg": "#6b7c93"
   },

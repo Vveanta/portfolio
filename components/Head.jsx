@@ -33,6 +33,7 @@ const CustomHead = ({ title }) => {
       />
       <meta property="og:image" content="https://imgur.com/a/OAcRzgh" />
       <meta property="og:url" content="https://vedanshmaheshwari.netlify.app" />
+      <meta property="og:url" content="https://vedanshmaheshwari.me" />
       
     </Head>
   );

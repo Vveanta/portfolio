@@ -10,7 +10,7 @@ const AboutPage = () => {
         <p style={{ color: '#2c9ffe', textAlign: 'left' }}>{'<p>'}</p>
         <p style={{ marginLeft: '20px' }}>
           Hi there! I'm <span style={{ color: 'lightcoral' }}>Vedansh Maheshwari</span>, a Master’s in Computer Science student at the <span style={{ color: 'yellow' }}>University of Florida</span>,
-          graduating in December 2024. With a deep passion for <span style={{ color: 'green' }}>data science</span>, <span style={{ color: '#c586c0' }}>machine learning</span>, and <span style={{ color: 'green' }}>Software Development</span>, I specialize in creating impactful solutions that combine technical expertise with creative
+          graduating in December 2024. With a deep passion for <span style={{ color: 'green' }}>Data Science</span>, <span style={{ color: '#c586c0' }}>Machine Learning</span>, and <span style={{ color: 'green' }}>Software Development</span>, I specialize in creating impactful solutions that combine technical expertise with creative
           problem-solving. My journey has been marked by hands-on experience in building ML-driven applications,
           designing intuitive user interfaces, and working on innovative research projects.
         </p>
