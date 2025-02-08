@@ -1,15 +1,24 @@
 [
   {
     "id": 1,
-    "title": "Machine Learning Research Assistant",
+    "title": "Full Stack AI Engineer",
+    "company": "Unified Accessibility LLC",
+    "date": "Jan 2025 - Present",
+    "description": "Engineered LLM-powered automation for accessibility audits, optimizing prompts to test 80+ WCAG guidelines and developing a Mendix app to visualize results and streamline testing.",
+    "icon": "/UA.jpeg",
+    "iconBg": "#6b7c93"
+  },
+  {
+    "id": 2,
+    "title": "Data Science Researcher",
     "company": "Tea Lab @ University of Florida",
-    "date": "June 2024 - Present",
+    "date": "Aug 2024 - Present",
     "description": "Developed pipelines and deep learning models for predictive analysis. Enhanced real-world data representations using LSTMs and VAEs.",
     "icon": "/teaLab.jpg",
     "iconBg": "#4b6cb7"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Software Developer/ML Engineer Intern",
     "company": "Affekta LLC",
     "date": "May 2024 - August 2024",
@@ -18,7 +27,7 @@
     "iconBg": "#6b7c93"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Graduate Teaching Assistant",
     "company": "University of Florida",
     "date": "February 2024 - May 2024",
@@ -27,7 +36,7 @@
     "iconBg": "#4b6cb7"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Data Science Intern",
     "company": "To The New Pvt. Ltd.",
     "date": "June 2022 - August 2022",
