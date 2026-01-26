@@ -8,8 +8,8 @@ const contactItems = [
   },
   {
     social: 'email',
-    link: 'maheshwariv@ufl.edu',
-    href: 'mailto:maheshwariv@ufl.edu',
+    link: 'vedanshmaheshwari@gmail.com',
+    href: 'mailto:vedanshmaheshwari@gmail.com',
   },
   {
     social: 'phone',
@@ -35,11 +35,6 @@ const contactItems = [
     social: 'instagram',
     link: '@vedansh.13',
     href: 'https://www.instagram.com/vedansh.13',
-  },
-  {
-    social: 'telegram,',
-    link: '@vveanta',
-    href: 'https://t.me/vveanta',
   },
   // 
   // 

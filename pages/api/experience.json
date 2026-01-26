@@ -1,15 +1,24 @@
 [
   {
     "id": 1,
-    "title": "Full Stack AI Engineer",
+    "title": "Data Scientist",
+    "company": "Satlantis LLC",
+    "date": "Aug 2025 - Present",
+    "description": "Fine-tuned sensor-agnostic geospatial foundation models with PyTorch Lightning, exported ONNX heads, enabled zero/few-shot classification and segmentation, achieving 87%+ accuracy and 92% mIoU at scale pipelines.",
+    "icon": "/satlantis.jpg",
+    "iconBg": "#4b6cb7"
+  },
+  {
+    "id": 2,
+    "title": "Full Stack Engineer II",
     "company": "Unified Accessibility LLC",
     "date": "Jan 2025 - Present",
-    "description": "Engineered LLM-powered automation for accessibility audits, optimizing prompts to test 80+ WCAG guidelines and developing a Mendix app to visualize results and streamline testing.",
+    "description": "Built backend multi-tenant RBAC with Django/Postgres, handled database administration, delivered WCAG risk scoring and reports, and integrated LLM-assisted audit workflows for scalable compliance analytics platforms.",
     "icon": "/UA.jpeg",
     "iconBg": "#6b7c93"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Data Science Researcher",
     "company": "Tea Lab @ University of Florida",
     "date": "Aug 2024 - Present",
@@ -18,7 +27,7 @@
     "iconBg": "#4b6cb7"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Software Developer/ML Engineer Intern",
     "company": "Affekta LLC",
     "date": "May 2024 - August 2024",
@@ -27,7 +36,7 @@
     "iconBg": "#6b7c93"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Graduate Teaching Assistant",
     "company": "University of Florida",
     "date": "February 2024 - May 2024",
@@ -36,7 +45,7 @@
     "iconBg": "#4b6cb7"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Data Science Intern",
     "company": "To The New Pvt. Ltd.",
     "date": "June 2022 - August 2022",
