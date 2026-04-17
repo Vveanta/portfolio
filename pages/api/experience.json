@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "title": "Data Scientist",
-    "company": "Satlantis LLC",
-    "date": "Aug 2025 - Present",
-    "description": "Fine-tuned sensor-agnostic geospatial foundation models with PyTorch Lightning, exported ONNX heads, enabled zero/few-shot classification and segmentation, achieving 87%+ accuracy and 92% mIoU at scale pipelines.",
-    "icon": "/satlantis.jpg",
-    "iconBg": "#4b6cb7"
-  },
-  {
-    "id": 2,
     "title": "Full Stack Engineer II",
     "company": "Unified Accessibility LLC",
     "date": "Jan 2025 - Present",
     "description": "Built backend multi-tenant RBAC with Django/Postgres, handled database administration, delivered WCAG risk scoring and reports, and integrated LLM-assisted audit workflows for scalable compliance analytics platforms.",
     "icon": "/UA.jpeg",
     "iconBg": "#6b7c93"
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "company": "Satlantis LLC",
+    "date": "Aug 2025 - April 2026",
+    "description": "Fine-tuned sensor-agnostic geospatial foundation models with PyTorch Lightning, exported ONNX heads, enabled zero/few-shot classification and segmentation, achieving 87%+ accuracy and 92% mIoU at scale pipelines.",
+    "icon": "/satlantis.jpg",
+    "iconBg": "#4b6cb7"
   },
   {
     "id": 3,
